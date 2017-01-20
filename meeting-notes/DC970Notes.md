@@ -19,13 +19,13 @@
        <li>HP pretty much just has a red light which goes off if something gets compromised. So if you can spoof their alert system you can play for as long as you want.</li>
     </ul>
 <h3>Physical Lock Picking</h3>
-    <ol>
+    <ul>
         <li>Find a padlock.</li>
         <li>Use a key which has been bored down in a special way.</li>
         <li>Find a stapler, hairbrush, or ruler with a stamp attached.</li>
         <li>Insert your bored down key.</li>
         <li>Use your stapler, hairbrush, or ruler with a stamp attached to tap the bored key in an attempt actuate the pins in the lock while you apply pressure to the locking mechanism bar.</li>
-    </ol>
+    </ul>
  
        
 

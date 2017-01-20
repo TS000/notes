@@ -1,7 +1,8 @@
 <h1><strong>DC970</strong></h1>
 <h3>SANS Holiday Challenge</h3>
     <ul>
-      <li>Online game which is about saving Santa Claus. Teaches you in steps how to use real world abilities to hack and find Santa (he's real). Highly recommended.</li>
+      <li>Online game which is about saving Santa Claus.</li> 
+      <li>Teaches you in steps how to use real world abilities to hack and find Santa (he's real). Highly recommended.</li>
     </ul>
 <h3>Over the Wire</h3>
 <h3>DEFCON<h3>

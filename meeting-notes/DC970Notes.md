@@ -15,7 +15,7 @@
  <h3>Enterprise System Weaknesses</h3>
  <p>I talked with a gentleman who worked for HP for 45 years, I gleaned the following from our conversation</p>
     <ul>
-       <li>Amazon is capable of switching out a part of their system which might get infected within a 30 second window./li>
+       <li>Amazon is capable of switching out a part of their system which might get infected within a 30 second window.</li>
        <li>Google uses the cheapest Chinese tech and when it breaks they just buy new stuff.</li>
        <li>HP pretty much just has a red light which goes off if something gets compromised. So if you can spoof their alert system you can play for as long as you want.</li>
     </ul>
